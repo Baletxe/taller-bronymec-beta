@@ -2,7 +2,7 @@
  "name": "Bronymec BETA",
  "short_name": "BM beta",
  "lang": "es",
- "description": "Producción del taller y panel de control de pedidos de Bronymec",
+ "description": "Plan de fabricación del taller de Bronymec",
  "start_url": "./",
  "scope": "./",
  "display": "fullscreen",
